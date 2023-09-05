@@ -17,3 +17,5 @@ void komma(void) {
   printf(",hei");
 
 }
+
+//
